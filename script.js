@@ -34,7 +34,6 @@ function drawHeart(x, y, size, opacity) {
   ctx.fill();
   ctx.restore();
 }
-
 function animate() {
   ctx.clearRect(0, 0, width, height);
 
